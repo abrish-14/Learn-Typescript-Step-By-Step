@@ -27,5 +27,7 @@ let Key = Symbol("key");
 
 console.log(`key`);
 
-
+//Bigint
+let bigNumber: bigint = (2980777654);
+console.log(bigNumber);
 
